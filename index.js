@@ -13,4 +13,6 @@ function countDown() {
       messages.push(`Thank you, ${names[i]}, for the wonderful ${eventName} gift!`);
     }
     return messages;
+  
   }
+  
